@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://araasmomsein.github.io/jiankaiyun-com-cn/sitemap.xml
